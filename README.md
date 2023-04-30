@@ -3,4 +3,5 @@
 <ul>
   <li>this was a simple introductory session on git and github</li>
   <li>demonstrating pull request</li>
+  <li>writing simple codes</li>
 </ul>
