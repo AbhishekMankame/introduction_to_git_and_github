@@ -3,7 +3,7 @@
 <ul>
   <li>this was a simple introductory session on git and github</li>
   <li>demonstrating basic git and github basics</li>
-  <li>
+  <li>demonstrating programming basics</li>
   <li>demonstrating pull request</li>
   <li>writing simple codes and descriptions</li>
   <li>demonstration using codespaces</li>
