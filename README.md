@@ -6,5 +6,6 @@
   <li>demonstrating programming basics</li>
   <li>demonstrating pull request</li>
   <li>writing simple codes and descriptions</li>
+  <li>demonstrating the coding basics</li>
   <li>demonstration using codespaces</li>
 </ul>
